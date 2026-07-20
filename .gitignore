@@ -3,4 +3,5 @@ dataset.json
 output.*
 main.py
 test_main.py
+output.py
 __pycache__
